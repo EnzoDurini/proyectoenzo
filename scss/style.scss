@@ -1,0 +1,21 @@
+//IMPORTS
+@import "main";
+@import "footer";
+@import "colors";
+@import "header";
+@import "responsive";
+
+//Variables
+
+
+* {padding: 0;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+
+}
+p{ 
+    font-size: 1.2rem;
+}

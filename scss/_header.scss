@@ -1,0 +1,18 @@
+@import "colors";
+
+header{ 
+    background-color: $divheader;
+    width: 100vw;
+    nav{ background-color: $divheader;
+        background-color: $header;
+        div{ background-color: $divheader;
+        a{
+            font-family: 'Courgette', cursive;
+            font-family: 'MonteCarlo', cursive;
+            font-size: 2rem;
+
+        }
+    }
+}
+
+}
